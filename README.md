@@ -29,6 +29,6 @@ A hack to prevent vessel part upgrade code, introduced by squad in 1.8.0, from c
 
 ## References
 
-[Morse](https://forum.kerbalspaceprogram.com/index.php?/profile/154930-morse/)
+* [Morse](https://forum.kerbalspaceprogram.com/index.php?/profile/154930-morse/)
 	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/124417-180-181-atmosphereautopilot-1516/&do=findComment&comment=3695094)
 
