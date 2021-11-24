@@ -23,8 +23,9 @@ A hack to prevent vessel part upgrade code, introduced by squad in 1.8.0, from c
 
 ## Known dependants
 
-* [Atmosphere Autopilot](https://forum.kerbalspaceprogram.com/index.php?/topic/124417-*) on 1.8.0 <= KSP <= 1.8.1
-	+ Newer KSP can have the problem fixed, and so this hack will not be needed anymore.
+* [Atmosphere Autopilot](https://forum.kerbalspaceprogram.com/index.php?/topic/124417-*) on 1.8.0 <= KSP <= 1.12.2
+	+ ~~Newer KSP can have the problem fixed, and so this hack will not be needed anymore.~~
+	+ No KSP release ever fixed that. It's needed for life.
 
 
 ## References
